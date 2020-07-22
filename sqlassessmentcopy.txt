@@ -1,5 +1,5 @@
 Initial Commit
-
+D
 
 1.Write a query to display Employee name, his salary along with the designation for all the employee.
 ->select name,salary,designation from employee_info;
